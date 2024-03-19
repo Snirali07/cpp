@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+
+    
     int i;
     cout<<"enter the value: ";
     cin>>i;
